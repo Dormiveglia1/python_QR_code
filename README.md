@@ -1,5 +1,6 @@
 # python_QR_code
 Use Python to generate QR code for websites
 
-Simple application of pillow and tinker
+Simple application of pillow and tkinter
+
 
